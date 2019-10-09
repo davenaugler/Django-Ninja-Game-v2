@@ -1,0 +1,25 @@
+body {
+    background-image: url('/static/ng_app/images/luxury-background2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.scroll {
+    overflow: scroll;
+}
+
+.border {
+    border-width: 1px !important;
+    box-shadow: 3px 1px 10px #3D513E;
+}
+
+h5{
+    font-size: 25px;
+    /* color: #3D513E; */
+    /* font-weight: 800; */
+    text-shadow: 8px 8px 10px #fff;
+}
+
+ul {
+    list-style-type: none;
+}
